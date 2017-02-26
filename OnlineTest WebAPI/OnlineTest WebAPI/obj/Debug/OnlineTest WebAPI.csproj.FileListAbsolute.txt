@@ -1,0 +1,40 @@
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\csc.exe
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\vbc.exe
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\OnlineTest WebAPI.dll.config
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\OnlineTest WebAPI.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\OnlineTest WebAPI.pdb
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Antlr3.Runtime.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Newtonsoft.Json.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Helpers.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Mvc.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Optimization.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Razor.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\WebGrease.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Helpers.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Mvc.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Optimization.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.Razor.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Antlr3.Runtime.pdb
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\bin\Newtonsoft.Json.xml
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\obj\Debug\OnlineTest WebAPI.csprojResolveAssemblyReference.cache
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\obj\Debug\OnlineTest WebAPI.dll
+E:\ 1RAIDMAX\1 Programming\Boki\OnlineTest\OnlineTest WebAPI\OnlineTest WebAPI\obj\Debug\OnlineTest WebAPI.pdb
